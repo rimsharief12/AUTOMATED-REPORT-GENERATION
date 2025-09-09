@@ -16,4 +16,4 @@ Python program that automates report generation by reading CSV data, performing 
 
 # OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/5a6c4655-3cc9-475f-a54f-e7a689041f32)
